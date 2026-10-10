@@ -347,8 +347,7 @@ Do not commit your `.env` file or database credentials to GitHub. Add `.env` to 
 
 ## 📄 License
 
-This project can be distributed under the MIT License if you choose to adopt it. Add a `LICENSE` file to the repository before claiming that the project is officially licensed under MIT.
-
+Free To Use
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
